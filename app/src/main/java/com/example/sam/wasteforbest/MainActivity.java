@@ -8,7 +8,7 @@ import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
     public void googleOnclick(View view)
-            
+//hello
     {
     Intent intent=new Intent(this,googleSignUp.class);
     startActivity(intent);
